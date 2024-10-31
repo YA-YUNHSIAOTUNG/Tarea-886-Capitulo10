@@ -1,0 +1,1 @@
+![CRC](../Imagenes/CRC.png)
